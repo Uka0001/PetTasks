@@ -7,10 +7,10 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>LinkedList</artifactId>
+    <artifactId>hashmap</artifactId>
     <packaging>jar</packaging>
 
-    <name>LinkedList</name>
+    <name>hashmap</name>
     <url>https://maven.apache.org</url>
 
     <properties>

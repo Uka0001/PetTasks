@@ -3,14 +3,14 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/PetLinkedList/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/PetLinkedList/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/parent/HashMap/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/parent/HashMap/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/parent/LinkedList/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/parent/LinkedList/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/parent/MergeSort/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/parent/MergeSort/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/parent/StringBuilder/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/parent/StringBuilder/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parent/hashmap/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parent/hashmap/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parent/linkedlist/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parent/linkedlist/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parent/mergesort/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parent/mergesort/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parent/stringbuilder/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parent/stringbuilder/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>

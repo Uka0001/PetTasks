@@ -7,10 +7,10 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>HashMap</artifactId>
+    <artifactId>mergesort</artifactId>
     <packaging>jar</packaging>
 
-    <name>HashMap</name>
+    <name>mergesort</name>
     <url>https://maven.apache.org</url>
 
     <properties>
